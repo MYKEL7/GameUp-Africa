@@ -1,2 +1,2 @@
 # GameUp-Africa
-Game development
+Game development with Maliyo Games.
